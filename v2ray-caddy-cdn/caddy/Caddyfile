@@ -1,4 +1,4 @@
-<EXAMPLE.COM> {
+w1.realaddison.xyz {
   root * /usr/share/caddy
 
   @websockets {
